@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Destroys all envs on Peer (not tenants).</description>
+   <name>ClearEnvs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed3e741d-d6fc-4ec8-aede-5d7572d325cf</testCaseGuid>
+</TestCaseEntity>

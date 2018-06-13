@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_spls</name>
+   <tag></tag>
+   <elementGuidId>f641cf84-04fa-4b77-8146-edcdcb790a56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ng-include/div[1]/div[3]/ui-view/div/div[2]/div[1]/div[1]/div[3]/select</value>
+   </webElementProperties>
+</WebElementEntity>

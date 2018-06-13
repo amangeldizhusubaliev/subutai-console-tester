@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>unhealthy_status</name>
+   <tag></tag>
+   <elementGuidId>d541c100-c0f2-4374-97cb-d4248430f2af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ng-include/div[1]/div[3]/ui-view/div/div[2]/div/div/div[2]/div/div[2]/div/table/tbody/tr[1]/td[1]/tooltip/tip-cont/div</value>
+   </webElementProperties>
+</WebElementEntity>

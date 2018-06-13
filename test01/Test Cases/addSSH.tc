@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>adds SSH keys to Peer.</description>
+   <name>addSSH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e0be0bd-9ceb-4f54-969d-c84ab2a7ab60</testCaseGuid>
+</TestCaseEntity>
